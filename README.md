@@ -1,7 +1,7 @@
 # ToxicBot
 Automated daily and weekly ranking of Dota2 players
 
-To use discord.js Node v16.6.0 or higher is required.
+To use discord.js, node v16.6.0 or higher is required.
 
 Creating your bot:
 
